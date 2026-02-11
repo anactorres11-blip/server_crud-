@@ -1,0 +1,22 @@
+{
+  "name": "server_crud-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "servidor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node servidor.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anactorres11-blip/server_crud-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/anactorres11-blip/server_crud-/issues"
+  },
+  "homepage": "https://github.com/anactorres11-blip/server_crud-#readme"
+}
